@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on my pre-work for Tech Elevator Fullstack BootCamp
+I'm currently learning how to use git
+I am a former chef and still love to cook! 
